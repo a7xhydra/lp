@@ -3,7 +3,7 @@
 
 
 
-<meta http-equiv="refresh" content="0; url=https://bananateam.online/amp/mooc-idn.html">
+<link rel="amphtml" href="https://bananateam.online/amp/mooc-idn.html">
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
